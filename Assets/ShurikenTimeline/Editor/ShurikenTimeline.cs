@@ -8,7 +8,7 @@ public class ShurikenTimeline : EditorWindow
 
 #if UNITY_EDITOR
 
-	[MenuItem("Window/ShurikenTimeline")]
+	[MenuItem("Window/Tools/ShurikenTimeline")]
 	static void ShowWindow()
 	{
 
